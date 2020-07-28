@@ -1,8 +1,5 @@
 %-------------------------------------------------------------------------
-%*****************Project assignment: Part 3******************************
 %*****************Detection and Tracking of Football**********************
-%*****************Spatial Statistics and Image Analysis, TMS016***********
-%*****************SAVYA SACHI GUPTA : savya@student.chalmers.se***********
 %-------------------------------------------------------------------------
 
 % This program is divided into two sections. It is highly recommended to 
