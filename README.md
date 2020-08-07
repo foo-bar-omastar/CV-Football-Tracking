@@ -29,10 +29,12 @@ The video can be downloaded from the source website specified above. Additionall
 
 ## Output Video
 
-<span>We stitch all the images together in form of a video and render it as a video at 20 Frames per second. The output video can be viewed at this link : <https://youtu.be/QLIsoOHTw6A> </span>
+<span>We stitch all the images together in form of a video and render it as a video at 20 Frames per second. The output YouTube video can be viewed by clinking on the image thumbnail below:  </span>
   
 [<img src="https://img.youtube.com/vi/QLIsoOHTw6A/maxresdefault.jpg" width="50%">](https://youtu.be/QLIsoOHTw6A)
 
+
+Link : <https://youtu.be/QLIsoOHTw6A>
 
 ## Drawbacks of Current Implementation
 
