@@ -59,9 +59,11 @@ colorbar;
 % observed in the H-channel of the image from the above figure
 figure(2)
 BW = imgHSV(:,:,1) < 0.12 & imgHSV(:,:,1) > .06;
+
 % Fill up the holes in the images. This helps in completing the shapes in
 % the image enabling better accuracy in identifying the object of interest
 BW = imfill(BW, 'holes');
+
 % Apply another median filter for further smoothing of the image
 BW = medfilt2(BW);
 
@@ -109,6 +111,9 @@ viscircles(ball, ball_radius,'EdgeColor','b');
 scatter(ball(:,1),ball(:,2),'*','m')
 hold off;
 
+
+
+%--------------------------------------------
 %% Section 2: Football Detection and Tracking
 %--------------------------------------------
 
