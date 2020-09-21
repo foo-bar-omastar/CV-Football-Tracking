@@ -27,7 +27,7 @@ clearvars; % Get rid of variables from prior run of this m-file.
 
 % Using the first frame to Display the HSV Image and perform initialization
 % steps that can be then used for later in the program.
-Filename = "video-00001.png";
+Filename = "video-00001.png"; % Replace with your video file
 
 % Read the input image
 Img = imread(Filename);
